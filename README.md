@@ -1,4 +1,4 @@
-
+![Coding Cat][(https://janine-codes.medium.com/7-ways-to-encourage-fill-in-the-blank-to-code-1fa21d2ec8e1)]
 
 <h1 align="center">Hi 👋, I'm Zidane</h1>
 <h3 align="center">A passionate Computer Science student interested in exploring various domains of CS</h3>
