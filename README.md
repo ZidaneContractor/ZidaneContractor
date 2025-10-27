@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" alt="Gif of a coding cat"/>
+</p>
 <h1 align="center">Hi 👋, I'm Zidane</h1>
 <h3 align="center">A passionate Computer Science student interested in exploring various domains of CS</h3>
 
